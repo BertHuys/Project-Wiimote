@@ -1,0 +1,15 @@
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\bin\Debug\Project.exe.config
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\App.g.cs
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project_Content.g.cs
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.g.resources
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\bin\Debug\Project.exe
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\bin\Debug\Project.pdb
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\bin\Debug\WII.HID.Lib.dll
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.exe
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.pdb
+C:\Users\BERT\Desktop\datacom\wii\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache

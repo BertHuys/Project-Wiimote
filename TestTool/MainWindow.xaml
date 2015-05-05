@@ -1,0 +1,42 @@
+﻿<Window x:Class="TestTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TestTool" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="254,23,0,280" TextWrapping="Wrap" Text="IR1" VerticalAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Margin="254,50,0,253" TextWrapping="Wrap" VerticalAlignment="Center"><Run Text="IR"/><Run Text="2"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="254,72,0,231" TextWrapping="Wrap" VerticalAlignment="Center"><Run Text="IR"/><Run Text="3"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="254,100,0,203" TextWrapping="Wrap" VerticalAlignment="Center" RenderTransformOrigin="0.433,1.649"><Run Text="IR"/><Run Text="4"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="37,20,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="B"/>
+        <TextBlock HorizontalAlignment="Left" Margin="19,81,0,0" TextWrapping="Wrap" Text="Home" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="37,110,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="37,140,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="28,170,0,0" TextWrapping="Wrap" Text="Up" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="13,200,0,0" TextWrapping="Wrap" Text="Down" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="19,230,0,0" TextWrapping="Wrap" Text="Left" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,260,0,0" TextWrapping="Wrap" Text="Right" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="124,53,0,0" TextWrapping="Wrap" Text="Min" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="123,20,0,0" TextWrapping="Wrap" Text="Plus" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtA" HorizontalAlignment="Left" Height="23" Margin="61,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtB" HorizontalAlignment="Left" Height="23" Margin="61,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtHome" HorizontalAlignment="Left" Height="23" Margin="61,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txt1" HorizontalAlignment="Left" Height="23" Margin="61,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txt2" HorizontalAlignment="Left" Height="23" Margin="61,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtUp" HorizontalAlignment="Left" Height="23" Margin="61,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtDown" HorizontalAlignment="Left" Height="23" Margin="61,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtLeft" HorizontalAlignment="Left" Height="23" Margin="61,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtRight" HorizontalAlignment="Left" Height="23" Margin="61,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtPlus" HorizontalAlignment="Left" Height="23" Margin="161,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <TextBox x:Name="txtMin" HorizontalAlignment="Left" Height="23" Margin="161,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="46"/>
+        <CheckBox x:Name="chkL1" Content="Led1" HorizontalAlignment="Left" Margin="124,98,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkL2" Content="Led2" HorizontalAlignment="Left" Margin="124,121,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkL3" Content="Led3" HorizontalAlignment="Left" Margin="124,143,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkL4" Content="Led4" HorizontalAlignment="Left" Margin="124,164,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkRumble" Content="Rumble" HorizontalAlignment="Left" Margin="124,184,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtIR1" HorizontalAlignment="Left" Height="23" Margin="295,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="txtIR2" HorizontalAlignment="Left" Height="23" Margin="295,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="txtIR3" HorizontalAlignment="Left" Height="23" Margin="295,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="txtIR4" HorizontalAlignment="Left" Height="23" Margin="295,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+    </Grid>
+</Window>

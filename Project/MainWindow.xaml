@@ -1,0 +1,13 @@
+﻿<Window x:Class="Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Presentation" Height="188" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox x:Name="txtKnop" HorizontalAlignment="Left" Height="23" Margin="89,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="44,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-3.42,-3.688"><Run Text="Kno"/><Run Text="p"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="55,45,0,0" TextWrapping="Wrap" Text="IR1" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="IR"/><Run Text="2"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="55,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="IR3"/>
+        <TextBlock HorizontalAlignment="Left" Margin="55,108,0,0" TextWrapping="Wrap" Text="IR4" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
